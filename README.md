@@ -1,1 +1,1 @@
-Public release channel for MetaFold Technical Service.
+**[MetaFold Technical Service](https://github.com/metafold-dev/metafold-technical-service)**
